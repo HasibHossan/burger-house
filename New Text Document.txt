@@ -1,0 +1,27 @@
+font
+bebasneu bold --title
+bebasneu regular
+alfa slab one r -button,sub title
+montserrat regular-----p
+
+font-family: 'Alfa Slab One', cursive;
+font-family: 'Bebas Neue', cursive;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Playfair Display', serif;
+
+section
+nav
+banner
+featcher
+manu
+artical
+form
+footer
+
+
+color
+deep brown-----3d2514
+yellow---------ffc045
+red-----------bf2222
+
+common tag
